@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.env
+bot.log
+*.pyc
+*.zip
+*.pdf
